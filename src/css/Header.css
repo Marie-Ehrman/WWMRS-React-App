@@ -1,0 +1,19 @@
+.header {
+    background-color: black;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.header-line-1 {
+    font-size: 2em;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.header-line-2 {
+    font-size: 2em;
+    color: #EEC51F;
+    padding: 0;
+    margin: 0;
+}

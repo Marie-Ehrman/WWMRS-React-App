@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Marie-Ehrman/WWMRS-React-App#readme",
   "dependencies": {
+    "axios": "^0.20.0",
     "gatsby": "^2.24.80",
     "react": "^16.14.0",
     "react-dom": "^16.14.0"
